@@ -3,6 +3,7 @@
   $table-th-width-sm: 100px;
   $table-td-width-md: 140px + $table-cell-padding;
 
+  width: 100%;
   border-collapse: collapse;
   table-layout: fixed; //테이블 사이즈를 무조건 고정시킬 경우
 
